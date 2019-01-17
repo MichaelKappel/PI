@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Math\VariableBase.Mathematics\VariableBase.Mathematics\VariableBase.Mathematics.csproj" />
+  </ItemGroup>
+
+</Project>
